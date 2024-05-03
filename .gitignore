@@ -1,0 +1,6 @@
+goth.stack
+.env
+airbin
+tmp/
+*.rdb
+tailwind.config.*.js
